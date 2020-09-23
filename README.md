@@ -1,2 +1,3 @@
 #GDS
-This is a test progect of course for proggaming 
+This is a test progect
+
